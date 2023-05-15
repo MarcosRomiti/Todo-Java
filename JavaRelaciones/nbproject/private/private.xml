@@ -28,5 +28,31 @@
             <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Juego.java</file>
             <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/perrera.java</file>
         </group>
+        <group name="Todo">
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Perro.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/javarelaciones/ej1ex.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Carta.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/javarelaciones/ej1.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/persona.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Baraja.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/javarelaciones/ej2.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Asiento.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/dni.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/javarelaciones/ej2ex.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/services/servicioAdopcion.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/javarelaciones/ej3.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/services/servicioBaraja.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/javarelaciones/JavaRelaciones.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/services/servicioSala.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Pelicula.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Sala.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Jugador.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Curso.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Revolver.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/services/servicioRuleta.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Espectador.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/Juego.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaRelaciones/src/entities/perrera.java</file>
+        </group>
     </open-files>
 </project-private>

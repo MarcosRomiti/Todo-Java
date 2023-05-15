@@ -29,5 +29,32 @@
             <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/interfaces/interfacePrueba.java</file>
             <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/Velero.java</file>
         </group>
+        <group name="Todo">
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/javaherencia/ej1ex.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/services/servicioAmarre.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/embarcacion.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/circulo.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/interfaces/interfaceAmarre.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/perro.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/Yate.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/electrodomestico.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/gato.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/animal.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/televisor.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/javaherencia/ej2.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/alquiler.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/caballo.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/lavadora.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/javaherencia/JavaHerencia.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/javaherencia/ej1.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/services/servicioElectrodomestico.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/javaherencia/ej4.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/rectangulo.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/interfaces/interfaceFormulas.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/Barco.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/embarcacionHija.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/interfaces/interfacePrueba.java</file>
+            <file>file:/C:/Users/Marcos/Documents/NetBeansProjects/JavaHerencia/src/entities/Velero.java</file>
+        </group>
     </open-files>
 </project-private>
